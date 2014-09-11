@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/MURAD/Dropbox/Murad/stuff/workspace/fun_coding/data_structure_algorithm/data_structure_algorithm/PracticeProject1/liblinear-1.94.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

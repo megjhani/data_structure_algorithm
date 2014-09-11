@@ -1,0 +1,57 @@
+!SESSION 2014-09-11 17:18:50.617 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe -data C:\Users\MURAD\Dropbox\Murad\stuff\workspace\fun_coding\data_structure_algorithm\data_structure_algorithm -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-09-11 17:19:16.584
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-09-11 17:19:16.584
+!MESSAGE Conflict for 'org.drools.eclipse.action.ConvertToDroolsProjectAction':
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@48337f),sourcePriority=16384)
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@48337f),sourcePriority=16384)
+!SESSION 2014-09-11 17:55:37.750 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-09-11 18:03:29.148
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-09-11 18:03:29.148
+!MESSAGE Conflict for 'org.drools.eclipse.action.ConvertToDroolsProjectAction':
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@5e2f1d),sourcePriority=16384)
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@5e2f1d),sourcePriority=16384)
+!SESSION 2014-09-11 18:23:13.508 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -vm C:\Program Files\Java\jre7\bin\javaw.exe
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-09-11 18:24:29.421
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-09-11 18:25:08.490
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-09-11 18:25:08.490
+!MESSAGE Conflict for 'org.drools.eclipse.action.ConvertToDroolsProjectAction':
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@17a12c4),sourcePriority=16384)
+HandlerActivation(commandId=org.drools.eclipse.action.ConvertToDroolsProjectAction,
+	handler=ActionDelegateHandlerProxy(null,org.drools.eclipse.action.ConvertToDroolsProjectAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@17a12c4),sourcePriority=16384)
