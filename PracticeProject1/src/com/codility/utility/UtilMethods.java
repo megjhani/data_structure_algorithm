@@ -30,7 +30,13 @@ public class UtilMethods {
 		}
 		return array;
 	}
-	
+	/**
+	 * creates a list of size N with integer raning between min and max values
+	 * @param N
+	 * @param min
+	 * @param max
+	 * @return
+	 */
 	public static LinkedListNode randomLinkedList(int N, int min, int max) {
 		LinkedListNode root = new LinkedListNode(randomIntInRange(min, max), null, null);
 		LinkedListNode prev = root;
